@@ -2,7 +2,7 @@
 - 👀 I’m interested in competitive programming and Machine Learning
 - 💞️ I’m looking to collaborate on programming projects
 - 📫 How to reach me eklavyakumarsingh100@gmail.com
-- ![LinkedIn(https://www.linkedin.com/in/eklavya-kumar-4671b221a/)
+- ![LinkedIn](https://www.linkedin.com/in/eklavya-kumar-4671b221a/)
 
 <!---
 eklavyaK/eklavyaK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
